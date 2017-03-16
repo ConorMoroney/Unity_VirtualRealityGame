@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/#MYAssets/scenes/Lvl_01.2.unity
+  isLoaded: 1
+  isActive: 1
